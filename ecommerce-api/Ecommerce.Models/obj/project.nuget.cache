@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "DsyDB2RtufkqEx6Dpz8QTDE4Dmn6DnoM8xW2RNwySeb07aBvyny2dgOpwDkBeprBHvavBnuIqgCpXpqBGk8PJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Ecommerce\\ecommerce-api\\Ecommerce.Models\\Ecommerce.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\6.2.2\\swashbuckle.aspnetcore.annotations.6.2.2.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.2\\swashbuckle.aspnetcore.swagger.6.2.2.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.2\\swashbuckle.aspnetcore.swaggergen.6.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

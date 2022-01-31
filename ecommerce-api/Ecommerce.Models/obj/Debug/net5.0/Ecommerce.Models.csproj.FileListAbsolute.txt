@@ -1,0 +1,12 @@
+C:\Projects\Ecommerce\ecommerce-api\Ecommerce.Models\obj\Debug\net5.0\Ecommerce.Models.csproj.AssemblyReference.cache
+C:\Projects\Ecommerce\ecommerce-api\Ecommerce.Models\obj\Debug\net5.0\Ecommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Ecommerce\ecommerce-api\Ecommerce.Models\obj\Debug\net5.0\Ecommerce.Models.AssemblyInfoInputs.cache
+C:\Projects\Ecommerce\ecommerce-api\Ecommerce.Models\obj\Debug\net5.0\Ecommerce.Models.AssemblyInfo.cs
+C:\Projects\Ecommerce\ecommerce-api\Ecommerce.Models\obj\Debug\net5.0\Ecommerce.Models.csproj.CoreCompileInputs.cache
+C:\Projects\Ecommerce\ecommerce-api\Ecommerce.Models\bin\Debug\net5.0\Ecommerce.Models.deps.json
+C:\Projects\Ecommerce\ecommerce-api\Ecommerce.Models\bin\Debug\net5.0\Ecommerce.Models.dll
+C:\Projects\Ecommerce\ecommerce-api\Ecommerce.Models\bin\Debug\net5.0\ref\Ecommerce.Models.dll
+C:\Projects\Ecommerce\ecommerce-api\Ecommerce.Models\bin\Debug\net5.0\Ecommerce.Models.pdb
+C:\Projects\Ecommerce\ecommerce-api\Ecommerce.Models\obj\Debug\net5.0\Ecommerce.Models.dll
+C:\Projects\Ecommerce\ecommerce-api\Ecommerce.Models\obj\Debug\net5.0\ref\Ecommerce.Models.dll
+C:\Projects\Ecommerce\ecommerce-api\Ecommerce.Models\obj\Debug\net5.0\Ecommerce.Models.pdb
